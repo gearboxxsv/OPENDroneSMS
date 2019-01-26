@@ -15,7 +15,7 @@ FAA Administrator Michael Huerta announced the formation of the team on August 2
 ### Report To Unmanned Aircraft Safety Team 
 
 
-* Try it out today using a smartphone or desktop web browser. [ Who Is the UAST?](https://unmannedaircraftsafetyteam.com/new)
+* Try it out today using a smartphone or desktop web browser. [Anonymous Reporting Tool](https://unmannedaircraftsafetyteam.com/new)
 
 **There is a maximum query limit set per IP address of 100 queries per hour.
 
