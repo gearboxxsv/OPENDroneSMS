@@ -1,21 +1,4 @@
 # opendronesms
-FAA Administrator Michael Huerta announced the formation of the team on August 2, 2016. Administrator Huerta committed that the FAA would work with stakeholders to charter a team to address safety issues related to the increasing number of UAS operations. Join the UAST membership and the FAA’s UAS Integration Office to make drone flight safer by reporting incidents to the industry anonymously or participate on the team with the API toolset for long term integration into your product or service.
-
-Unmanned Aircraft Safety Team (UAST) Public Reporting API is free to use.  There is a maximum query limit set per IP address of 100 queries per hour.
-
-## ABOUT
->Anonymous Sighting Reporting System (ASRS) For UAS providers of USS or UTM solutions. We offer a platform for non charge use on any production system or drone to submit detect and avoid, safety for pilot or drone, and public reporting in a redacted and secure manner.  We collect only the facts to monitor safety issues, we provide valuable information to your platform for free to help make safety first place. We do not advise on the rules and regulations of UAS flight, we provide you information from other Remote Pilots and AI infused data streams to let you know the risk profile for any GPS coordinates. Its a safety belt for your application and the public not flying.
- 
-##  Reporting Tools For USS, UTM, and Law Enforcement Application Developers
-> Start to communicate directly to 40+ of the biggest companies and Federal agencies in one interface on safety reports and search your area for reports.  All information is redacted to only offer pilot and automated data for your interpretation.  Report on incidents of unsafe UAS operation, uncontrolled flight, manufacturer issues that are causing risk to people and property, and poor judgement.  The UAST, UnmannedAircraftSafetyTeam.org, is a safety focused group interested in helping to make recommendations on how to safely integrate unmanned aircraft into society.  
-
-We are teaming with OpenDroneID to enable it with OpenDroneSMS to power up any UAS business, smartphone application, or Law Enforcement Agency, or insurance platform with a simple reporting toolset.    
-
-
-### Unmanned Aircraft Safety Team
-
-
-* Try it out, file a report today. [ Start New Report Here](https://chat.unmannedaircraftsafetyteam.com/new)
  
 > The Unmanned Aircraft Safety Team is an industry-government partnership committed to ensuring the safe operations of unmanned aircraft systems (UAS) in the national airspace system. The DRONEBLOX.io supports the safe integration of UAS with data-driven safety enhancements and collaboration amongst members of the UAS industry.
 
@@ -26,6 +9,23 @@ The process involved with risk analyses starts with your information which is su
 
 The UAS stakeholders are adopting the same collaborative model as the General Aviation Joint Steering Committee (GAJSC) & Commercial Aviation Safety Team (CAST). Any qualified UTM, LAANC, USS, Remote ID USS, or similar aerospace information system may access the API free.  
  
+FAA Administrator Michael Huerta announced the formation of the team on August 2, 2016. Administrator Huerta committed that the FAA would work with stakeholders to charter a team to address safety issues related to the increasing number of UAS operations. Join the UAST membership and the FAA’s UAS Integration Office to make drone flight safer by reporting incidents to the industry anonymously or participate on the team with the API toolset for long term integration into your product or service.
+
+**There is a maximum query limit set per IP address of 100 queries per hour.
+
+## ABOUT
+>Anonymous Sighting Reporting System (ASRS) For UAS providers of USS or UTM solutions for the long term. UAST will offer a platform for no charge use to any valid system or drone operator to submit a detect and avoid occurance, safety for pilot or drone issue, injury of any kind, common issue with commercial drone model creating risk, and a general public reporting tool with PII redaction.  We collect only the facts to monitor safety issues.  We do not advise on the rules and regulations in your area only if there has been risk in the area of your proposed or current UAS flight. We provide you information from other Remote Pilots and AI infused data streams alerting you to risk via the API.  Search quickly by any GPS coordinates and get a risk score and remote pilot reports. All data provided with out warrenty as is from network, crowd source, survey, and federal databases permitted for this use.
+ 
+##  USS, UTM, and Law Enforcement Application Developers
+> Start to communicate directly with 40+ of the biggest companies and Federal agencies in one interface on safety reports and search your area for reports.  All information is redacted to only offer pilot and automated data for your interpretation.  Report on incidents of unsafe UAS operation, uncontrolled flight, manufacturer issues that are causing risk to people and property, and poor judgement.  The UAST, UnmannedAircraftSafetyTeam.org, is a safety focused group interested in helping to make recommendations on how to safely integrate unmanned aircraft into society.  
+
+Technology Exploration Group, a UAST member, is teaming with OpenDroneID to enable safety at the beggining with OpenDroneSMS API. Join by implementing the API in your project and share it with [us here](https://chat.unmannedaircraftsafetyteam.org)
+
+
+### Unmanned Aircraft Safety Team
+
+
+* Try it out today using a smartphone or desktop web browser. [ Start New Report Here](https://chat.unmannedaircraftsafetyteam.com/new)
 
 
 **Using the UAST web api is provided at no charge by the UAST.
