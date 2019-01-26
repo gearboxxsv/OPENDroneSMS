@@ -23,11 +23,8 @@ FAA Administrator Michael Huerta announced the formation of the team on August 2
 >Anonymous Safety Reporting System (ASRS) is ideal for UAS providers of USS or UTM solutions wishing to implement a safety management program. UAST will offer a platform for no charge use to any valid system or drone operator to submit a detect and avoid occurrence, safety for pilot or drone issue, injury of any kind, common issue with commercial drone model creating risk, and a general public reporting tool with PII redaction.  We collect only the facts to monitor safety issues.  We do not advise on the rules and regulations in your area. Search quickly by any GPS coordinates to get a risk score and remote pilot reports. All data provided without warranty as is based on pilot reports (ASRS), website content, crowd source, social media, and federal databases permitted for this use.
  
 ##  USS, UTM, and Law Enforcement Application Developers Join In!
-> Start to communicate directly with 40+ of the biggest companies and Federal agencies in one interface on safety reports and search your area for reports.  All information is redacted to only offer pilot and automated data for your interpretation.  Report on incidents of unsafe UAS operation, uncontrolled flight, manufacturer issues that are causing risk to people and property, and poor judgement.  The UAST, UnmannedAircraftSafetyTeam.org, is a safety focused group interested in helping to make recommendations on how to safely integrate unmanned aircraft into society.  
-
-Technology Exploration Group, a UAST member, is teaming with OpenDroneID to enable safety at the beginning with OpenDroneSMS API. Join by implementing the API in your project and share it with [us here](https://www.unmannedaircraftsafetyteam.org/contact)
-
-
+> Start to communicate directly with 40+ of the biggest companies and Federal agencies in one interface on safety reports and search your area for reports.  All information is redacted to only offer pilot and automated learning system a source for brokering and reporting as a third party observer of the industry.  
+The UAST, UnmannedAircraftSafetyTeam.org, is a safety focused group interested in helping to make recommendations on how to safely integrate unmanned aircraft into society.  
 
 **Using the UAST web api is provided at no charge by the UAST.
 
