@@ -9,7 +9,7 @@ The process involved with risk analyses starts with public and government inform
 
 The UAS stakeholders are adopting the same collaborative model as the General Aviation Joint Steering Committee (GAJSC) & Commercial Aviation Safety Team (CAST). Any qualified UTM, LAANC, USS, Remote ID USS, or similar aerospace information system may access the API free.  
  
- >About The Team
+ >About The Team: 
 FAA Administrator Michael Huerta announced the formation of the team on August 2, 2016. Administrator Huerta committed that the FAA would work with stakeholders to charter a team to address safety issues related to the increasing number of UAS operations. Join the UAST membership and the FAA’s UAS Integration Office to make drone flight safer by reporting incidents to the industry anonymously or participate on the team with the API toolset for long term integration into your product or service.
 
 **There is a maximum query limit set per IP address of 100 queries per hour.
