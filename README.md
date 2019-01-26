@@ -15,7 +15,7 @@ FAA Administrator Michael Huerta announced the formation of the team on August 2
 ### Report To Unmanned Aircraft Safety Team 
 
 
-* Try it out today using a smartphone or desktop web browser. [ Start New Report Here](https://chat.unmannedaircraftsafetyteam.com/new)
+* Try it out today using a smartphone or desktop web browser. [ Who Is the UAST?](https://unmannedaircraftsafetyteam.com/new)
 
 **There is a maximum query limit set per IP address of 100 queries per hour.
 
@@ -25,7 +25,7 @@ FAA Administrator Michael Huerta announced the formation of the team on August 2
 ##  USS, UTM, and Law Enforcement Application Developers Join In!
 > Start to communicate directly with 40+ of the biggest companies and Federal agencies in one interface on safety reports and search your area for reports.  All information is redacted to only offer pilot and automated data for your interpretation.  Report on incidents of unsafe UAS operation, uncontrolled flight, manufacturer issues that are causing risk to people and property, and poor judgement.  The UAST, UnmannedAircraftSafetyTeam.org, is a safety focused group interested in helping to make recommendations on how to safely integrate unmanned aircraft into society.  
 
-Technology Exploration Group, a UAST member, is teaming with OpenDroneID to enable safety at the beginning with OpenDroneSMS API. Join by implementing the API in your project and share it with [us here](https://chat.unmannedaircraftsafetyteam.org)
+Technology Exploration Group, a UAST member, is teaming with OpenDroneID to enable safety at the beginning with OpenDroneSMS API. Join by implementing the API in your project and share it with [us here](https://www.unmannedaircraftsafetyteam.org/report/)
 
 
 
@@ -46,4 +46,4 @@ This database is used without personally identifiable information to build Safet
 *  Apply Prebuilt Standard Terms To Describe The Incident From UAST 
 *  Supply Onsite Images, Onsite Video, Problem/Solution Statements, Submit, and Track It!
  
-[Start Incident Report](https://chat.unmannedaircraftsafetyteam..com/new)
+[Learn About The UAST](https://unmannedaircraftsafetyteam.org/)
