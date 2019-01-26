@@ -2,7 +2,7 @@
  
 > The Unmanned Aircraft Safety Team is an industry-government partnership committed to ensuring the safe operations of unmanned aircraft systems (UAS) in the national airspace system. Now your application can support the safe integration of UAS with data-driven safety enhancements and collaboration amongst members of the UAST.
 
-The process involved with risk analyses starts with public and government information sources gathered into this tool for UAST Working Group triage. All submissions are reviewed. We do not store guest information in order to protect your personally identifiable information. Apply for an API account to submit reports, review possible safety enhancements, and use the realtime features in your projects.  
+The process involved with risk analysis starts with public and government information sources gathered into this tool for UAST Working Group triage. All submissions are reviewed. We do not store guest information in order to protect your personally identifiable information. Apply for an API account to submit reports, review possible safety enhancements, and use the realtime features in your projects.  
 
 
 ## Safety Management Systems SMS
