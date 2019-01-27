@@ -26,5 +26,6 @@ The UAST, UnmannedAircraftSafetyTeam.org, is a safety focused group interested i
 * Assist In Building Applied Analytical Models For Safe Drone Operations
 * Embed Tools For Continuous Improvement of Safety Culture and Education Content
 * Subscribe To Industry Safety Assurance Enhancements Directions From The UAST
+
 [Learn About The UAST](https://unmannedaircraftsafetyteam.org/)
 
