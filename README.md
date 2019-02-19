@@ -11,11 +11,6 @@ This database is used without personally identifiable information to build Safet
 *  Create Incident Report (API,Web)
 *  Apply Prebuilt Standard Terms To Describe The Incident From UAST 
 *  Supply Onsite Images, Onsite Video, Problem/Solution Statements, Submit, and Track It!
- 
-## ASRS
->Anonymous Safety Reporting System (ASRS) is ideal for UAS providers of USS or UTM solutions wishing to implement a safety management program. UAST will offer a platform for no charge use to any valid system or drone operator to submit a detect and avoid occurrence, safety for pilot or drone issue, injury of any kind, common issue with commercial drone model creating risk, and a general public reporting tool with PII redaction.  We collect only the facts to monitor safety issues.  We do not advise on the rules and regulations in your area. Search quickly by any GPS coordinates to get a risk score and remote pilot reports. All data provided without warranty as is based on pilot reports (ASRS), website content, crowd source, social media, and federal databases permitted for this use.
-
-**Using the OpenDroneSMS web api is provided at no charge by the membership of the UAST.
 
 ### Why Participate With The UAST?
 * Participate In A Deliberate System For Risk Analysis
