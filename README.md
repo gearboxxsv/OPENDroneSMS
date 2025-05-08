@@ -1,6 +1,6 @@
 # OpenDroneSMS
 
-Safety Management Systems are core to all flight operations and unmanned service supplier networks.  The objective of this API is to bridge the gap for NASA ASRS and USS SMS communities.  Each flight operation will have issues, the public will have reports, and we all want to protect proprietary information and privacy, what to do? 
+Safety Management Systems are core to all flight operations and unmanned service supplier networks.  The objective of this API is to bridge the gap for NASA and all communities.  Each flight operation will have issues, the public will have reports, and we all want to protect proprietary information and privacy, what to do? 
 
 OpenDroneSMS is first a reporting tool, and can be a foundation to develop your own SMS program.  They key is to share your data, contribute code to the open source project, and integrate OpenDroneSMS anonymous and secure code.  Build great projects with safety at the core and help surface industry wide issues and solutions faster. 
  
@@ -10,7 +10,7 @@ OpenDroneSMS is first a reporting tool, and can be a foundation to develop your 
 * Embed Tools For Continuous Improvement of Safety Culture and Education Content
 * Subscribe To Industry Safety Assurance Enhancements Directions From The UAST
 
-[Learn About The UAST](https://unmannedaircraftsafetyteam.org/)
+[Learn About The International Drone Safety Team](https://donesafetyteam.org/)
 
 # How Is Data Handled?
 
